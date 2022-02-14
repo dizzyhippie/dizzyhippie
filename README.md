@@ -1,4 +1,4 @@
-![smith-logo](https://user-images.githubusercontent.com/77408757/153907918-6e6f805e-d691-44c0-a5c7-a2252cf79af5.svg)
+![smith-logo](https://user-images.githubusercontent.com/77408757/153907918-6e6f805e-d691-44c0-a5c7-a2252cf79af5.svg height ="100")
 
 ### Hi there 👋
  
