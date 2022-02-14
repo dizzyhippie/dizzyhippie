@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there! My name is Jacob Smith, a Front End Developer from London, Ontario 👋
  
 
 🌱 I’m currently learning Vue.js, Node and Express <br/>
