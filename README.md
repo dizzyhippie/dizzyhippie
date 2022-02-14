@@ -6,4 +6,4 @@
 📫 How to reach me: ...
 
 
-[![DizzyHippie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dizzyhippie)](https://github.com/dizzyhippie/github-readme-stats)
+[![DizzyHippie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dizzyhippieI&hide=issues)](https://github.com/dizzyhippie/github-readme-stats)
