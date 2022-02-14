@@ -1,7 +1,7 @@
 ### Hi there 👋
  
 
-🌱 I’m currently learning Vue.js, Node and Express
+🌱 I’m currently learning Vue.js, Node and Express <br/>
 📫 How to reach me: ...
 
 
