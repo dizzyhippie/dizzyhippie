@@ -2,7 +2,7 @@
 ### Hi there! My name is Jacob Smith, a Front End Developer from London, Ontario. 👋
  
 
-🌱 I’m currently learning Node and Express <br/>
+🌱 I’m currently learning Node, Express and Socket.io <br/>
 📫 You can reach me at: jacob.regsmith@gmail.com <br/>
 🖥 You can view [Portfolio Website](https://mindofjacob.ca/) here!
 
