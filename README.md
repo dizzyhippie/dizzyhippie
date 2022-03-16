@@ -1,8 +1,8 @@
 
 ### Hi there! My name is Jacob Smith, a Front End Developer from London, Ontario. 👋
  
-
-🌱 I’m currently learning Node, Express, PHP, SQL, and Socket.IO <br/>
+🛠 I am working on rebuilding my portfolio website!
+🌱 I’m currently learning Node, React, PHP and Liquid! <br/>
 📫 You can reach me at: jacob.regsmith@gmail.com <br/>
 🖥 You can view [Portfolio Website](https://mindofjacob.ca/) here!
 
