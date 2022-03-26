@@ -18,4 +18,4 @@
 [<img src="https://img.icons8.com/color/40/000000/instagram-new.png"/>](https://www.instagram.com/jsmith266/)
 [<img src="https://img.icons8.com/color/40/000000/ios-glyphs/domain.png"/>](https://mindofjacob.ca/)
 
-<a href="https://app.daily.dev/dizzyhippie"><img src="https://api.daily.dev/devcards/95433da9f0b64a68924c286b6fca29d4.png?r=v6v" width="400" alt="Jacob Smith's Dev Card"/></a>
+<a href="https://app.daily.dev/dizzyhippie"><img src="https://api.daily.dev/devcards/95433da9f0b64a68924c286b6fca29d4.png?r=6gp" width="400" alt="Jacob Smith's Dev Card"/></a>
