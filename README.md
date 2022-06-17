@@ -1,15 +1,15 @@
 
-### Hi there! My name is Jacob Smith, a Front End Developer from London, Ontario. 👋
+### Hi there! My name is Jacob Smith, a Web Developer in London, Ontario. 👋
  
-🛠 I am working on rebuilding my portfolio website! <br/>
-🌱 I’m currently learning Node, React, PHP and Liquid! <br/>
+🛠 Currently working as a Web Developer @ Northern Commerce <br/>
+🌱 I’m currently learning Magento, PHP and Liquid! <br/>
 📫 You can reach me at: jacob.regsmith@gmail.com <br/>
 🖥 You can view [Portfolio Website](https://mindofjacob.ca/) here!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyhippie&layout=compact&theme=dracula)](https://github.com/dizzyhippie/github-readme-stats)
 
 ### Skills
- HTML & CSS | Javascript | Vue.JS | Gulp | Sass | PHP | SQL | Python | Bootstrap
+ HTML & CSS | Javascript | Vue.JS | Gulp | Sass | PHP | SQL | Python | Bootstrap | Liquid
 
 
 ### Find me Online
