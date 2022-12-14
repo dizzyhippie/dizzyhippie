@@ -4,8 +4,6 @@
 🛠 Currently working <br/>
 📫 You can reach me at: jacob.regsmith@gmail.com <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyhippie&layout=compact&theme=dracula)](https://github.com/dizzyhippie/github-readme-stats)
-
 ### Skills
  HTML & CSS | Javascript | Vue.JS | Gulp | Sass | PHP | SQL | Python | Bootstrap | Liquid
 
