@@ -1,6 +1,3 @@
-
-### Hi there! My name is Jacob Smith, a Web Developer in London, Ontario. 👋
- 
 🛠 Currently working <br/>
 📫 You can reach me at: jacob.regsmith@gmail.com <br/>
 
